@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: messageConsumer
+  server:
+    port: 8081
+  redis:
+    uri: redis://localhost

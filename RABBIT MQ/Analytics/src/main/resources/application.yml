@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: analytics
+  server:
+    port: 9081

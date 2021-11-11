@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: lettuceRedisMessageConsumer
+  server:
+    port: 9092
+redis.uri: redis://localhost
+redis.timeout: 300000s
